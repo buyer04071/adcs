@@ -1,0 +1,16 @@
+{
+  "AuthGGAdminAPI": "VJFLROWJYMZM",
+
+  "AuthGG Application Information": "Used for the AppInfo command",
+  "AuthGGAPI": "98713482319153486588949342253138476",
+  "AuthGGAID": "266036",
+  "AuthGGSecret": "8cJ5mskgLDa8yePq5hBky0jUDwbo5kf0NcS",
+
+  "AppInfoLogo": "https://i.imgur.com/3GxXzyn.png",
+  "AuthGGName": "Auth.GG",
+  "AuthGGIcon": "https://i.imgur.com/3GxXzyn.png",
+  "AuthGGUrl": "https://Auth.GG/",
+
+  "DiscordToken": "ODQ0ODY4NzM5MDczNzAzOTM2.YKYrVA.yNnYe0yUi38tQ0qiVhe38WnWU6g",
+  "CommandPrefix": "!"
+}
